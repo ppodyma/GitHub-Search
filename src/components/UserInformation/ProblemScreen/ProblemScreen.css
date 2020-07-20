@@ -1,0 +1,8 @@
+.ProblemScreen {
+    font-size: 18px;
+    color: var(--black);
+}
+
+.problem-image {
+    display: block;
+}

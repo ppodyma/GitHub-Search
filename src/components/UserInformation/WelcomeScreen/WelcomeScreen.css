@@ -1,0 +1,10 @@
+.WelcomeScreen {
+    font-size: 18px;
+    color: var(--black);
+}
+
+.hello-image {
+    display: block;
+    height: 140px;
+    width: 260px;
+}

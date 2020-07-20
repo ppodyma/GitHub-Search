@@ -1,0 +1,30 @@
+.user-description {
+    font-size: 14px;    
+    line-height: 19px;
+    letter-spacing: 0.4px;
+    color: var(--dark-grey);
+    padding-top: 16px;
+}
+
+.user-main-information {
+    display: flex;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    color: var(--black);
+}
+
+.username {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    color: var(--black);
+    padding: 16px;
+}
+
+.user-image {
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
+}

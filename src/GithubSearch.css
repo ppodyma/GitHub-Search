@@ -1,0 +1,27 @@
+:root {
+  --white: #FFFFFF;
+  --dark-white: #FBFCFD;
+  --dark-blue: #452CDC;
+  --blue: #2F80ED;
+  --black: rgba(0, 0, 0, 0.87);
+  --dark-gray: #828282;
+  --gray: #F0F3F4
+}
+
+body {
+  background-color: var(--dark-white);
+  font-family: Roboto;
+  margin: 0;
+}
+
+.GithubSearch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--dark-white);
+
+}
+
+.github-search-container {
+  width: 100%;
+}
